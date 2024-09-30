@@ -1,30 +1,22 @@
 
 # **Nesneye Dayalı Programlama - C# Geliştirme ve Uyum Eğitimi**
+> _28 Eylül'de başladığım 2 aylık kurs sürecinde yaptığımız projeleri ve temel örnekleri sizlerle paylaşıyorum._
+
+
 **Kursun İçeriği:**
 
   * C# .NET’e Giriş
   * C# .NET  ile Programlamaya Giriş
-
   * Değişkenler ve Değişken Tipleri
-
   * Program Kontrol Deyimleri
-
   * Fonksiyonlar ve Alt Programlar
-
   * .NET Framework Class Library
-
   * Windows Formları ile Çalışma
-
   * Nesne Yönelimli Programlama Temelleri
-
   * C# ile Veri tabanlarına Giriş
-
   * Ado.Net, DataSet ve Diğer Kavramlar
-
   * Veri Erişim Kontrolleri
-
   * Veri Gösterim Kontrolleri
-
   * Uygulama Geliştirme Projesi
 
 | **KONULAR** |
@@ -44,3 +36,8 @@
 | Raporlama İşlemleri (Crystal Reports) |
 | Excel Programına Raporlama İşlemleri, Proje Uygulaması |
 | Proje Uygulaması |
+
+#
+> Bu imkanı bizlere ücretsiz bir şekilde sağladığı için Elginkan Vakfına teşekkürlerimi sunuyorum.
+
+###### Her ay ücretsiz birçok alanda kurs veren [Elginkan Vakfı](https://basvuru.aemtem.org.tr/)na bakmanızı öneririm.
