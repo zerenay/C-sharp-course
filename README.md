@@ -38,6 +38,6 @@
 | Proje Uygulaması |
 
 #
-> Bu imkanı bizlere ücretsiz bir şekilde sağladığı için Elginkan Vakfına teşekkürlerimi sunuyorum.
+> Bu imkanı bizlere ücretsiz bir şekilde sağladığı için Elginkan Vakfına teşekkür ederim.
 
 ###### Her ay ücretsiz birçok alanda kurs veren [Elginkan Vakfı](https://basvuru.aemtem.org.tr/)na bakmanızı öneririm.
